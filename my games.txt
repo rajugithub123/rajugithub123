@@ -2,3 +2,4 @@ cricket
 chess
 vollyball
 carrom
+pro kabaddi
