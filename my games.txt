@@ -3,3 +3,4 @@ chess
 vollyball
 carrom
 pro kabaddi
+hocky
